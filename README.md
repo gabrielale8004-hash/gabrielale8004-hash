@@ -1,1 +1,1 @@
-<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/d34e8c69-07be-4df9-b5df-39610292b69e" />
+![Uploading Midnight Developer Workspace.png…]()
